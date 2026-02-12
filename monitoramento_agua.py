@@ -14,3 +14,4 @@ economia=(litros_captados/1000)* 10
 print(f"você poderia captar aproximadamente  {litros_captados:.2f}litros de água")
 print(f"economia estimada: R${economia:.2f}")
 print("com essa água, seria possivel lavar calçadas, regar plantas ou usar em descargas!")
+
